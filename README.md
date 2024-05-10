@@ -32,4 +32,4 @@
 * Impacto a longo prazo: As enchentes podem ter um impacto duradouro nas comunidades afetadas. Considere apoiar organizações que fornecem assistência contínua.
 * Agradecemos sua disposição em ajudar o povo do Rio Grande do Sul durante este momento difícil. 
 # Objetivo: 
-* O projeto visa criar um sistema de ChatBot inteligente IA para ajudar o povo do RS com doações Alimentar entre outros. Esse sistema tem 3 funções: Ajudar as  pessoas que estão nos alojamentos no RS, ajudar  as pessoas do Rio Grande do Sul que estão passando por uma tragedia de inundações. juntos somos mais fortes.
+* O projeto visa criar um sistema de ChatBot inteligente IA para ajudar o povo do RS com doações Alimentar entre outros. Esse sistema tem 2 funções: Ajudar as  pessoas que estão nos alojamentos no RS, ajudar  as pessoas do Rio Grande do Sul que estão passando por uma tragedia de inundações. juntos somos mais fortes.
