@@ -10,24 +10,22 @@ desabrigadas e em necessidade urgente de alimentos,água,produtos de higiene e l
 A organização já realizou doações de materiais de limpeza, água e cestas básicas, mas destaca que a necessidade persiste ainda a muitas famílias 
 desabrigadas e desaparecidas. O Rio Grande do Sul vive um momento de profunda tristeza e desolação após as devastadoras enchentes que atingiram o estado nos últimos dias. As chuvas incessantes causaram inundações, deslizamentos de terra e outros estragos, deixando um rastro de destruição e sofrimento por onde passaram,Cidades submersas e milhares de desalojados.
 
-#Doações financeiras:
-*doacoespaypal@cufa.org.br
-**doacoes@cufa.org.br
-**Banco de Alimentos do Rio Grande do Sul:** https://www.bandars.com.br/
-**Cruz Vermelha Brasileira:** https://www.cruzvermelha.org.br/doacoes/
-**Cáritas Brasileira:** https://www.caritas.org.br/
+# Doações financeiras:
+* doacoespaypal@cufa.org.br
+* doacoes@cufa.org.br
+* Banco de Alimentos do Rio Grande do Sul:** https://www.bandars.com.br/
+* Cruz Vermelha Brasileira:** https://www.cruzvermelha.org.br/doacoes/
+* Cáritas Brasileira:** https://www.caritas.org.br/
 
-##Ofereça-se para ajudar na distribuição de alimentos, limpeza de escombros ou outros esforços de socorro.
+# Ofereça-se para ajudar na distribuição de alimentos, limpeza de escombros ou outros esforços de socorro.
 * Entre em contato com o Banco de Alimentos do Rio Grande do Sul ou com organizações locais de voluntariado.
+* Atualizações sobre as enchentes no Rio Grande do Sul:**
+* Defesa Civil do Rio Grande do Sul:** https://www.defesacivil.rs.gov.br/
+* G1 - Rio Grande do Sul:** https://g1.globo.com/rs/rio-grande-do-sul/
+* R7 - Rio Grande do Sul:** https://noticias.r7.com/brasil/rio-grande-do-sul/
+* Outras informações importantes:*
 
-**Atualizações sobre as enchentes no Rio Grande do Sul:**
-
-*Defesa Civil do Rio Grande do Sul:** https://www.defesacivil.rs.gov.br/
-*G1 - Rio Grande do Sul:** https://g1.globo.com/rs/rio-grande-do-sul/
-*R7 - Rio Grande do Sul:** https://noticias.r7.com/brasil/rio-grande-do-sul/
-*Outras informações importantes:**
-
-*Como evitar fraudes:** Desconfie de pedidos de doações não solicitados ou de organizações não reconhecidas.
-*Segurança:** Tome precauções de segurança ao se voluntariar ou doar itens, especialmente em áreas afetadas por desastres.
-*Impacto a longo prazo:** As enchentes podem ter um impacto duradouro nas comunidades afetadas. Considere apoiar organizações que fornecem assistência contínua.
-*Agradecemos sua disposição em ajudar o povo do Rio Grande do Sul durante este momento difícil. 
+* Como evitar fraudes:** Desconfie de pedidos de doações não solicitados ou de organizações não reconhecidas.
+* Segurança:** Tome precauções de segurança ao se voluntariar ou doar itens, especialmente em áreas afetadas por desastres.
+* Impacto a longo prazo:** As enchentes podem ter um impacto duradouro nas comunidades afetadas. Considere apoiar organizações que fornecem assistência contínua.
+* Agradecemos sua disposição em ajudar o povo do Rio Grande do Sul durante este momento difícil. 
