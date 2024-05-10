@@ -9,7 +9,8 @@ desabrigadas e desaparecidas. O Rio Grande do Sul vive um momento de profunda tr
 #Doações financeiras:
 doacoespaypal@cufa.org.br
 doacoes@cufa.org.br
-* **Banco de Alimentos do Rio Grande do Sul:** https://www.bandars.com.br/
+* **Banco de Alimentos do Rio Grande do Sul:** https://www.bandars.com.br/![cufa sos](https://github.com/Wesley7b/Projeto_Imersao_Jonas/assets/169486083/d39e47df-2348-4f0b-87f5-f1407c0f0b81)
+
 * **Cruz Vermelha Brasileira:** https://www.cruzvermelha.org.br/doacoes/
 * **Cáritas Brasileira:** https://www.caritas.org.br/
 
