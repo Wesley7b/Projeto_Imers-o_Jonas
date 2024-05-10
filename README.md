@@ -10,7 +10,7 @@ desabrigadas e em necessidade urgente de alimentos,água,produtos de higiene e l
 A organização já realizou doações de materiais de limpeza, água e cestas básicas, mas destaca que a necessidade persiste ainda a muitas famílias 
 desabrigadas e desaparecidas. O Rio Grande do Sul vive um momento de profunda tristeza e desolação após as devastadoras enchentes que atingiram o estado nos últimos dias. As chuvas incessantes causaram inundações, deslizamentos de terra e outros estragos, deixando um rastro de destruição e sofrimento por onde passaram,Cidades submersas e milhares de desalojados.
 
-# Doações financeiras:
+# Doações
 * doacoespaypal@cufa.org.br
 * doacoes@cufa.org.br
 * Banco de Alimentos do Rio Grande do Sul:** https://www.bandars.com.br/
