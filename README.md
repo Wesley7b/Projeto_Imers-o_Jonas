@@ -5,10 +5,8 @@
 ![sos 3](https://github.com/Wesley7b/Projeto_Imersao_Jonas/assets/169486083/b59bcc6a-81fe-450a-b649-50a3733463a2)
 ![cufa-ajudar-rs](https://github.com/Wesley7b/Projeto_Imersao_Jonas/assets/169486083/03eee32c-d1af-4bfd-9c1e-91ad53d02247)
 
-#A CUFA intensifica sua mobilização solidária em apoio ao Rio Grande do Sul, que foi duramente atingido pelas chuvas, deixando famílias 
-desabrigadas e em necessidade urgente de alimentos,água,produtos de higiene e limpeza, cobertores, colchões . 
-A organização já realizou doações de materiais de limpeza, água e cestas básicas, mas destaca que a necessidade persiste ainda a muitas famílias 
-desabrigadas e desaparecidas. O Rio Grande do Sul vive um momento de profunda tristeza e desolação após as devastadoras enchentes que atingiram o estado nos últimos dias. As chuvas incessantes causaram inundações, deslizamentos de terra e outros estragos, deixando um rastro de destruição e sofrimento por onde passaram,Cidades submersas e milhares de desalojados.
+# A CUFA intensifica sua mobilização solidária em apoio ao Rio Grande do Sul, que foi duramente atingido pelas chuvas, deixando famílias desabrigadas e em necessidade urgente de alimentos,água,produtos de higiene e limpeza, cobertores, colchões . 
+* A organização já realizou doações de materiais de limpeza, água e cestas básicas, mas destaca que a necessidade persiste ainda a muitas famílias desabrigadas e desaparecidas. O Rio Grande do Sul vive um momento de profunda tristeza e desolação após as devastadoras enchentes que atingiram o estado nos últimos dias. As chuvas incessantes causaram inundações, deslizamentos de terra e outros estragos, deixando um rastro de destruição e sofrimento por onde passaram,Cidades submersas e milhares de desalojados.
 
 # Doações
 * doacoespaypal@cufa.org.br
@@ -29,3 +27,4 @@ desabrigadas e desaparecidas. O Rio Grande do Sul vive um momento de profunda tr
 * Segurança:** Tome precauções de segurança ao se voluntariar ou doar itens, especialmente em áreas afetadas por desastres.
 * Impacto a longo prazo:** As enchentes podem ter um impacto duradouro nas comunidades afetadas. Considere apoiar organizações que fornecem assistência contínua.
 * Agradecemos sua disposição em ajudar o povo do Rio Grande do Sul durante este momento difícil. 
+# Objetivo: O projeto visa criar um sistema de ChatBot inteligente IA para ajudar o povo do RS com doações Alimentar entre outros. Esse sistema tem 3 funções: Ajudar as  pessoas que estão nos alojamentos no RS, ajudar  as pessoas do Rio Grande do Sul que estão passando por uma tragedia de inundações. juntos somos mais fortes.
