@@ -1,41 +1,17 @@
 # Projeto_Imers-o_Jonas
-# Inicializando o Sistema
+# SOS CUFA PARA RS
 
-!pip install -q -U google-generativeai
+A CUFA intensifica sua mobilização solidária em apoio ao Rio Grande do Sul, que foi duramente atingido pelas chuvas, deixando famílias 
+desabrigadas e em necessidade urgente de alimentos,água,produtos de higiene e limpeza, cobertores, colchões . 
+A organização já realizou doações de materiais de limpeza, água e cestas básicas, mas destaca que a necessidade persiste ainda a muitas famílias 
+desabrigadas e desaparecidas. O Rio Grande do Sul vive um momento de profunda tristeza e desolação após as devastadoras enchentes que atingiram o estado nos últimos dias. As chuvas incessantes causaram inundações, deslizamentos de terra e outros estragos, deixando um rastro de destruição e sofrimento por onde passaram,Cidades submersas e milhares de desalojados.
 
-import google.generativeai as genai
-from google.colab import userdata
-api_key = userdata.get('Key_Secret')
-genai.configure(api_key=api_key)
-
-Generation_config = {
-    'candidate_count': 1,
-    'temperature': 0.7,
-}
-
-safety_settings = {  
-    'HARASSMENT': 'BLOCK_NONE',
-    'HATE': 'BLOCK_NONE',
-    'SEXUAL': 'BLOCK_NONE',
-    'DANGEROUS': 'BLOCK_NONE',
-}
-
-model = genai.GenerativeModel(model_name='gemini-1.0-pro',
-                                  generation_config=Generation_config,
-                                  safety_settings=safety_settings)
-
-#Melhorando a visualização
-import textwrap
-from IPython.display import display
-from IPython.display import Markdown
-
-def to_markwown(text):
-  text = text.replace(' * '  ' * ')
-  return Markdown(textwrap.indent(text, '> ', predicate=lambda _: True))
-  #Imprimindo o histórico
-  for message in chat.history:
-    display(to_markwown(f'**{message.role}**:{message.parts[0].text}'))
-    print*('--------------------------------------------')
+#Doações financeiras:
+doacoespaypal@cufa.org.br
+doacoes@cufa.org.br
+* **Banco de Alimentos do Rio Grande do Sul:** https://www.bandars.com.br/
+* **Cruz Vermelha Brasileira:** https://www.cruzvermelha.org.br/doacoes/
+* **Cáritas Brasileira:** https://www.caritas.org.br/
 
     # Atalhos do SOS Rio Grande do SUL CUFA
 
